@@ -982,27 +982,17 @@ CETV3,http://124.205.11.203:91/live/CETV3-1500k/live.m3u8
 港台电视31,http://histar.zapi.us.kg/?id=rthk31
 港台电视32,http://histar.zapi.us.kg/?id=rthk32
 HOYTV,mitv://135.148.104.228:19806/10c18372b612479086c1f259245543ff
-翡翠台(备),mitv://147.135.39.171:9906/657c8f940005cf8fa955b96f23e11195
+翡翠台,mitv://147.135.39.171:9906/657c8f940005cf8fa955b96f23e11195
 J2,mitv://135.148.104.228:19806/6a623cf5c0bc4c96b8fd45a47af4a872
-无线新闻台(备),mitv://147.135.39.171:9906/657c8f940000cdb0a955b82762a73640
-无线新闻台,http://histar.zapi.us.kg/?id=tvb-news
+无线新闻台,mitv://147.135.39.171:9906/657c8f940000cdb0a955b82762a73640
 无线财经体育资讯台,mitv://135.148.104.228:19806/8bcc654c89f74ebdb4e82062ef5f998c
 ViuTVsix,mitv://135.148.104.228:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
 ViuTV,mitv://135.148.104.228:19806/976916e8baee45a89d5e023224f7ab2b
-凤凰中文台,http://histar.zapi.us.kg/?id=phtv-cn
-凤凰资讯台,http://histar.zapi.us.kg/?id=phtv-info
-凤凰香港台,http://histar.zapi.us.kg/?id=phtv-hk
-星河台,http://histar.zapi.us.kg/?id=tvb-xinghe
-娱乐新闻台,http://histar.zapi.us.kg/?id=ylxw
-澳门卫视,http://histar.zapi.us.kg/?id=mstv
-澳门莲花,http://histar.zapi.us.kg/?id=lotustv
 now新闻台,mitv://135.148.104.228:19806/d7a5bbf5664945cc8589b36b8434d68d
 HKC18,mitv://135.148.104.228:19806/140377dc9e0848678d614d451d69af9e
 戏曲台,mitv://135.148.104.228:19806/4c3b3c3a6c8849c3aa0fc9938859e134
 TVB娱乐新闻台,mitv://135.148.104.228:19806/46bb3afe133d4cd8ac4b195c7f5f428c
 TVB娱乐新闻台,mitv://135.148.104.228:19806/46bb3afe133d4cd8ac4b195c7f5f428c
-翡翠台,http://histar.zapi.us.kg/?id=feicui
-千禧经典台,http://histar.zapi.us.kg/?id=tvb-classic
 千禧经典台,mitv://135.148.104.228:19806/1a5b04c67ece47bb87aa482e2c73138a
 Thrill,mitv://135.148.104.228:19806/1c3c73215afd42558101c3ee65737202
 明珠台,mitv://135.148.104.228:19806/9993262cc067418a983f0c7ec18adef9
@@ -1011,23 +1001,9 @@ Thrill,mitv://135.148.104.228:19806/1c3c73215afd42558101c3ee65737202
 now财经台,mitv://135.148.104.228:19806/88f95058c046453a973e2540701ccb4e
 美亚电影台(粤语),mitv://135.148.104.228:19806/ee16565eb5fe46be8d22cbbde1fa9fae
 HandsUp,mitv://135.148.104.228:19806/7a79a82b627a417f897895b4adf874aa
-粤语片台,http://histar.zapi.us.kg/?id=tvb-yueyu
 亚洲剧台,mitv://135.148.104.228:19806/ee081a662356489d8b2170952ec91d24
 功夫台,mitv://135.148.104.228:19806/ef6373344abf4bedae4d49ac953c1742
 HOY资讯台,mitv://135.148.104.228:19806/eb5a565eb80d40509f0a248018dfd337
-黄金翡翠台,http://histar.zapi.us.kg/?id=golden-jade
-黄金华剧台,http://histar.zapi.us.kg/?id=golden-chinese-drama
-澳亚卫视,http://histar.zapi.us.kg/?id=mastv
-香港卫视,http://histar.zapi.us.kg/?id=hks
-星空卫视,http://histar.zapi.us.kg/?id=star-xing-kong
-ViuTV,http://histar.zapi.us.kg/?id=viutv
-ViuTV6,http://histar.zapi.us.kg/?id=viutv6
-亚洲剧台,http://histar.zapi.us.kg/?id=tvb-asia-drama
-明珠台,http://histar.zapi.us.kg/?id=pearl
-华语剧台,http://histar.zapi.us.kg/?id=tvb-drama
-HOY 资讯台,http://histar.zapi.us.kg/?id=hoy-info
-HOY TV,http://histar.zapi.us.kg/?id=hoytv
-HOY 国际财经,http://histar.zapi.us.kg/?id=hoy-ibc
 TVB 翡翠台,http://php.jdshipin.com:8880/xsj.php?id=feicui
 TVB 无线新闻台,http://php.jdshipin.com:8880/xsj.php?id=tvbnews
 TVB PLUS,http://php.jdshipin.com:8880/xsj.php?id=tvbplus
@@ -1097,13 +1073,8 @@ Now Golf 2,http://php.jdshipin.com:8880/xsj.php?id=nowgolf2
 Now Golf 3,http://php.jdshipin.com:8880/xsj.php?id=nowgolf3
 
 🇨🇳 Star TW,#genre#
-民视,http://histar.zapi.us.kg/?id=ftv
-民视台湾台,http://histar.zapi.us.kg/?id=ftv-tw
-台视第一台,http://histar.zapi.us.kg/?id=ftv-one
-台视,http://histar.zapi.us.kg/?id=ttv
 大爱1台,mitv://135.148.104.228:19806/e89ec8c592484d88bc001e8d8a6c9e31
 大爱1台,mitv://135.148.104.228:19806/e89ec8c592484d88bc001e8d8a6c9e31
-中视,http://histar.zapi.us.kg/?id=ctv
 中视,mitv://135.148.104.228:19806/27826c4ed7234c0d8759bc7fe6786a18
 霹雳台湾台,mitv://135.148.104.228:19806/dcdf778fe9ca4184ad6af3a911765cf0
 霹雳台湾台,mitv://135.148.104.228:19806/dcdf778fe9ca4184ad6af3a911765cf0
@@ -1111,7 +1082,6 @@ Now Golf 3,http://php.jdshipin.com:8880/xsj.php?id=nowgolf3
 华视,mitv://135.148.104.228:19806/761bc3c0662247d18b0db4da8070b7f4
 公视,mitv://135.148.104.228:19806/5bc9388122b840f1abd2ff73c85049a6
 公视,mitv://135.148.104.228:19806/5bc9388122b840f1abd2ff73c85049a6
-好消息,http://histar.zapi.us.kg/?id=goodtv
 好消息,mitv://135.148.104.228:19806/febf2282369d409d92d68514b72fc433
 原住民,mitv://135.148.104.228:19806/cb5b7549e3604100a605ca17c82808f5
 原住民,mitv://135.148.104.228:19806/cb5b7549e3604100a605ca17c82808f5
@@ -1134,19 +1104,13 @@ MOMO亲子台,mitv://135.148.104.228:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 纬来综合台,mitv://135.148.104.228:19806/d40310ae8bba42569d3d90b4cf7d9928
 纬来综合台,mitv://135.148.104.228:19806/d40310ae8bba42569d3d90b4cf7d9928
 八大第一台,mitv://135.148.104.228:19806/270abff66f5e496fb9c100a0dbca3fe6
-八大第一台,http://histar.zapi.us.kg/?id=gtv27
-八大综合台,http://histar.zapi.us.kg/?id=gtv28
 八大综合台,mitv://135.148.104.228:19806/6c18a737c1394e59ae5072935d630f40
 三立台湾台,mitv://135.148.104.228:19806/ff12e8f29f9b4f61a9b766709aa498f6
 三立台湾台,mitv://135.148.104.228:19806/ff12e8f29f9b4f61a9b766709aa498f6
 三立都会台,mitv://135.148.104.228:19806/7a36f98eee8e48a48ea64a1359083c8a
 三立都会台,mitv://135.148.104.228:19806/7a36f98eee8e48a48ea64a1359083c8a
 东森综合台,mitv://135.148.104.228:19806/a05a4d8b51f54013925315261a2c6aa9
-东森综合台,http://histar.zapi.us.kg/?id=ebc-ettv
 东森超视台,mitv://135.148.104.228:19806/5121f16c4b634c1683e9444aa68494b6
-东森超视台,http://histar.zapi.us.kg/?id=ebc-super
-中天亚洲台,http://histar.zapi.us.kg/?id=cti-asia
-中天综合台,http://histar.zapi.us.kg/?id=ctitv36
 中天娱乐台,mitv://135.148.104.228:19806/6932151dd5a74b759a053f78a719fbf3
 中天娱乐台,mitv://135.148.104.228:19806/6932151dd5a74b759a053f78a719fbf3
 东森戏剧台,mitv://135.148.104.228:19806/4fae332a68a04f3fa77a158ac1fa4bce
@@ -1181,11 +1145,8 @@ HITS,mitv://135.148.104.228:19806/a65416c2039f4644aeef10da853fb928
 中天新闻台,mitv://135.148.104.228:19806/bd9064ee198045a386f1f2dba5073f4e
 民视新闻台,mitv://135.148.104.228:19806/d24f18e610d248b7a450d29492b37ebf
 民视新闻台,mitv://135.148.104.228:19806/d24f18e610d248b7a450d29492b37ebf
-三立台湾台,http://histar.zapi.us.kg/?id=settv-taiwan
-三立综合台,http://histar.zapi.us.kg/?id=settv-zonghe
 TVBS新闻台,mitv://135.148.104.228:19806/6a155a5d7bea461b980b4fa559119a60
 TVBS新闻台,mitv://135.148.104.228:19806/6a155a5d7bea461b980b4fa559119a60
-TVB plus,http://histar.zapi.us.kg/?id=j2
 TVBS,mitv://135.148.104.228:19806/9fb651a7ec2e402588a0752ba1035476
 东森财经新闻台,mitv://135.148.104.228:19806/9193e5efd94f4991ba8bfbc98bdc3f19
 东森财经新闻台,mitv://135.148.104.228:19806/9193e5efd94f4991ba8bfbc98bdc3f19
@@ -1195,8 +1156,6 @@ TVBS,mitv://135.148.104.228:19806/9fb651a7ec2e402588a0752ba1035476
 卫视电影台,mitv://135.148.104.228:19806/f5f1de75dbbf48e2a21a498977ffb8e4
 东森电影台,mitv://135.148.104.228:19806/08435f286ac744a0942899c551209779
 东森电影台,mitv://135.148.104.228:19806/08435f286ac744a0942899c551209779
-纬来日本台,http://histar.zapi.us.kg/?id=videoland-japan
-纬来综合台,http://histar.zapi.us.kg/?id=videoland
 龙祥电影,mitv://135.148.104.228:19806/78502c9b515845a7baca6a3a6ea88b8a
 龙祥电影,mitv://135.148.104.228:19806/78502c9b515845a7baca6a3a6ea88b8a
 HBO,mitv://135.148.104.228:19806/37f11d742fee447ab15f07db28095bd6
@@ -1289,13 +1248,9 @@ HBO原创巨献,mitv://135.148.104.228:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
 HBO原创巨献,mitv://135.148.104.228:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
 BBCEarth,mitv://135.148.104.228:19806/49261fefe28441bea7b775cc44fa16b5
 BBCEarth,mitv://135.148.104.228:19806/49261fefe28441bea7b775cc44fa16b5
-ELTA 综合,http://histar.zapi.us.kg/?id=elta-zonghe
 DiscoveryAsia,mitv://135.148.104.228:19806/0afefbe6244c42dbac40a3d8abef8d07
 Discovery科学频道,mitv://135.148.104.228:19806/39e1494bd82c449892c6f92a6c8dc213
 Discovery科学频道,mitv://135.148.104.228:19806/39e1494bd82c449892c6f92a6c8dc213
-TVBS 精彩台,http://histar.zapi.us.kg/?id=tvbs-jc
-TVBS 欢乐台,http://histar.zapi.us.kg/?id=tvbs-huanle
-TVBS Asia,http://histar.zapi.us.kg/?id=tvbs-asia
 EVE,mitv://135.148.104.228:19806/f21130546932443d98f6ec02aa4ec99a
 历史频道,mitv://135.148.104.228:19806/e6f506b509c94bacb4a371cdbcbe7719
 历史频道,mitv://135.148.104.228:19806/e6f506b509c94bacb4a371cdbcbe7719
@@ -1305,7 +1260,6 @@ BBCLifestyle,mitv://135.148.104.228:19806/178e533979bb4ec3af9190ca475f23ef
 BBCLifestyle,mitv://135.148.104.228:19806/178e533979bb4ec3af9190ca475f23ef
 Lifetime,mitv://135.148.104.228:19806/112b06172cdf41cbb6990e64d30cab0c
 Lifetime,mitv://135.148.104.228:19806/112b06172cdf41cbb6990e64d30cab0c
-KLT-靖天国际台,http://histar.zapi.us.kg/?id=jtgj
 KLT-靖天国际台,mitv://135.148.104.228:19806/12d39bada24843588ad72a3175b785a2
 HGTV居家乐活频道,mitv://135.148.104.228:19806/84613e96237545769558cc572e6d1ab0
 HGTV居家乐活频道,mitv://135.148.104.228:19806/84613e96237545769558cc572e6d1ab0
@@ -1332,7 +1286,6 @@ EYETV旅游台,mitv://135.148.104.228:19806/2d426994acef44deb401aa8a4cd5a92e
 中视经典台,mitv://135.148.104.228:19806/8b9e15ff15474ccbbc2780c1484e50c9
 中视经典台,mitv://135.148.104.228:19806/8b9e15ff15474ccbbc2780c1484e50c9
 中视菁采台,mitv://135.148.104.228:19806/ae5e01a7bc294327b88f65aa5d38217c
-中视菁采台,http://histar.zapi.us.kg/?id=bravo
 TVBS精采台,mitv://135.148.104.228:19806/2089afbec2474359add275658522922f
 TVBS精采台,mitv://135.148.104.228:19806/2089afbec2474359add275658522922f
 壹电视综合,mitv://135.148.104.228:19806/617d6cf150574cb485ee07aea57262fd
@@ -1417,10 +1370,10 @@ EYETV戏剧台,mitv://135.148.104.228:19806/2831986ed4b448c9b626788fbd3f2f89
 纬来日本,mitv://135.148.104.228:19806/5f9d37ba1fc04a04aaec6979908294a2
 爱尔达影剧台,mitv://135.148.104.228:19806/932d4522f2294c6a926b7ab8027c269f
 爱尔达影剧台,mitv://135.148.104.228:19806/932d4522f2294c6a926b7ab8027c269f
-民视(备),mitv://135.148.104.228:19806/8d864649cfc54b518b3d137d67583155
-民视(备),mitv://135.148.104.228:19806/8d864649cfc54b518b3d137d67583155
-三立台湾台(备),mitv://135.148.104.228:19806/7554a57ea53f4c10ae4e219ac2d374c4
-三立台湾台(备),mitv://135.148.104.228:19806/7554a57ea53f4c10ae4e219ac2d374c4
+民视,mitv://135.148.104.228:19806/8d864649cfc54b518b3d137d67583155
+民视,mitv://135.148.104.228:19806/8d864649cfc54b518b3d137d67583155
+三立台湾台,mitv://135.148.104.228:19806/7554a57ea53f4c10ae4e219ac2d374c4
+三立台湾台,mitv://135.148.104.228:19806/7554a57ea53f4c10ae4e219ac2d374c4
 影迷数位电影台,mitv://135.148.104.228:19806/bc069c037478448a9e41dbc3e1d5d0f6
 影迷数位电影台,mitv://135.148.104.228:19806/bc069c037478448a9e41dbc3e1d5d0f6
 卫视中文台,mitv://135.148.104.228:19806/7f7bdcb1fb94430daa8ba120dcbfde4e
@@ -1429,16 +1382,15 @@ EYETV戏剧台,mitv://135.148.104.228:19806/2831986ed4b448c9b626788fbd3f2f89
 爱尔达体育1台,mitv://135.148.104.228:19806/68e521d35c0247ddbc5073dee98245a3
 爱尔达体育3台,mitv://135.148.104.228:19806/3ebc6b89559c44dca30c4c259a5646b9
 爱尔达体育3台,mitv://135.148.104.228:19806/3ebc6b89559c44dca30c4c259a5646b9
-台视(备),mitv://135.148.104.228:19806/3c20d4387ec845149b2ded5f28805f18
-台视(备),mitv://135.148.104.228:19806/3c20d4387ec845149b2ded5f28805f18
+台视,mitv://135.148.104.228:19806/3c20d4387ec845149b2ded5f28805f18
+台视,mitv://135.148.104.228:19806/3c20d4387ec845149b2ded5f28805f18
 爱尔达体育4台,mitv://135.148.104.228:19806/df4f198dbe6347e1a084c79d208f227d
 爱尔达体育4台,mitv://135.148.104.228:19806/df4f198dbe6347e1a084c79d208f227d
-中视(备),mitv://135.148.104.228:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
-中视(备),mitv://135.148.104.228:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
-华视,http://histar.zapi.us.kg/?id=cts
-华视(备),mitv://135.148.104.228:19806/177390ae66634acca9be01242a769660
-东森新闻台(备),mitv://135.148.104.228:19806/35983e2efd5c44bf84bfb2977bbbc96d
-东森新闻台(备),mitv://135.148.104.228:19806/35983e2efd5c44bf84bfb2977bbbc96d
+中视,mitv://135.148.104.228:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
+中视,mitv://135.148.104.228:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
+华视,mitv://135.148.104.228:19806/177390ae66634acca9be01242a769660
+东森新闻台,mitv://135.148.104.228:19806/35983e2efd5c44bf84bfb2977bbbc96d
+东森新闻台,mitv://135.148.104.228:19806/35983e2efd5c44bf84bfb2977bbbc96d
 镜新闻,mitv://135.148.104.228:19806/668a0abb880a496d8f57fad2f580566b
 镜新闻,mitv://135.148.104.228:19806/668a0abb880a496d8f57fad2f580566b
 MTV,mitv://135.148.104.228:19806/eb5ba5262e2e4779a1418c78d14ad1e5
